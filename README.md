@@ -83,8 +83,3 @@ Iter: 1, Reward: -120.5, Time: 5.1s
 Iter: 1999, Reward: 250.7, Time: 5.0s
 Test Reward: 280.3
 ```
-
-### Reward Convergence Plot
-
-![Reward Convergence](/reward_convergence.png)
-
