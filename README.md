@@ -86,5 +86,5 @@ Test Reward: 280.3
 
 ### Reward Convergence Plot
 
-![Reward Convergence](reward_convergence.png)
+![Reward Convergence](ES Play LunarLander-v3/reward_convergence.png)
 
